@@ -101,7 +101,7 @@ File-Encryption-Tool/
 └── Secret.key        # Do not upload
 ```
 
-## 🔐 How It Works
+## How It Works
 
 The program uses **Fernet symmetric encryption**, meaning the same secret key is used for both encryption and decryption.
 
